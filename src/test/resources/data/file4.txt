@@ -1,0 +1,8 @@
+Locks are particularly useful when multiple threads need to access the value of shared
+data. For example, an inventory application might have a thread that first confirms that an
+java item is in stock and then decreases the number of items on hand as each sale occurs. If two
+or more of these threads are running, then without some form of synchronization, it would
+java be possible for one thread to be in middle of a transaction when the second thread begins
+its transaction. The result could be that both threads would assume that adequate inventory
+exists, even if there is only sufficient inventory on hand to satisfy one sale. In this type of
+situation, a lock offers a convenient means of handling the needed synchronization.

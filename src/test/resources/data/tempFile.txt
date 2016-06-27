@@ -1,0 +1,9 @@
+abcdef java sdfbdnsf
+java ddfddf dffdsf
+java is a set of computer software and specifications developed by Sun Microsystems
+which was later acquired by the Oracle Corporation, that provides a system for developing
+application software and deploying it in a cross-platform computing environment.
+java is used in a wide variety java of computing platforms from embedded devices and mobile phones
+to enterprise servers and supercomputers. While they are less common than standalone java applications,
+java applets run in secure, sandboxed environments to provide many features of native applications
+and can be embedded in HTML pages.
